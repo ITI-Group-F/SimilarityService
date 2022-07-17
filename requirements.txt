@@ -8,7 +8,7 @@ colorama==0.4.5
 dnspython==2.2.1
 fastapi==0.79.0
 h11==0.13.0
-idna==2.6
+idna==2.8
 imageio==2.19.3
 networkx==2.8.4
 numpy==1.23.1
